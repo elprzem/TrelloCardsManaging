@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_dialog_items">
+        <item name="edit">Edytuj</item>
+        <item name="move">Przenies</item>
+        <item name="delete">Usun</item>
+    </string-array>
+</resources>
